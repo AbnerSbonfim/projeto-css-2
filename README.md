@@ -32,7 +32,7 @@ Nesse projeto aprendi como fazer um site responsivo, totalmente funcional no des
 
 ## 🔗 Demonstração
 
-
+https://abnersbonfim.github.io/Easy-Shop/
 
 <br>
 
