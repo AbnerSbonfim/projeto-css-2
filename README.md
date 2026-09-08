@@ -32,7 +32,7 @@ Nesse projeto aprendi como fazer um site responsivo, totalmente funcional no des
 
 ## 🔗 Demonstração
 
-<!-- Se tiver o projeto publicado (ex: GitHub Pages, Vercel, Netlify), coloque o link aqui -->
+
 
 <br>
 
